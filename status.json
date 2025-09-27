@@ -1,5 +1,5 @@
 {
-  "enabled": false,
-  "latestVersion": "1.0.0",
+  "enabled": true,
+  "latestVersion": "1.0.1",
   "message": "App is working fine!"
 }
